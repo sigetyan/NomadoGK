@@ -1,0 +1,12 @@
+/* TEAM */
+NOMADO合同会社 / Nomado Ltd
+Founder and Creative Director: James Hirata (平田滋睦)
+Design and build: James Hirata
+Location: Queenstown, New Zealand; Hokkaido and Kansai, Japan
+
+/* SITE */
+Last update: 2026-09-09
+Language: English, Japanese
+Standards: HTML5, CSS3, SVG, JSON-LD
+Components: GSAP, ScrollTrigger
+Fonts: Italiana, Playfair Display, Hanken Grotesk, Shippori Mincho, Noto Sans JP
